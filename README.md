@@ -32,7 +32,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Learned the basics of data persistence, the MVC pattern, and implementing RecyclerView. Used Java code to manage teh data model and adapter. 
+Learned the basics of data persistence, the MVC pattern, and implementing RecyclerView. Used Java code to manage the data model and adapter. 
 
 ## License
 
