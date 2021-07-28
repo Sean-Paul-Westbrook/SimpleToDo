@@ -4,7 +4,7 @@
 
 Submitted by: **Sean Westbrook**
 
-Time spent: **5** hours spent in total
+Time spent: **7** hours spent in total
 
 ## User Stories
 
@@ -32,11 +32,11 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Learned the basics of data persistence, the MVC pattern, and implementing RecyclerView. Used Java code to manage teh data model and adapter. 
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2021 Sean Westbrook
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
